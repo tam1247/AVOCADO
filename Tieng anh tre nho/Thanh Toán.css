@@ -1,0 +1,59 @@
+body {
+  background-image: url("./img/BDCV.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+
+h1 {
+  text-align: center;
+  border: black;
+}
+select {
+  font-size: 18px;
+  padding: 5px;
+}
+form {
+  max-width: 500px;
+  margin: 0 auto;
+  border: #ffffff;
+}
+
+label {
+  display: block;
+  margin-top: 10px;
+}
+
+input, select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #f3eded;
+  border-radius: 3px;
+  box-sizing: border-box;
+}
+
+button[type="submit"] {
+  background-color: #4CAF50;
+  color: rgb(6, 55, 2);
+  cursor: pointer;
+  text-align: center;
+}
+
+button[type="submit"] {
+  padding: 8px 16px;
+  border-radius: 4px;
+  border: none;
+  background-color: #4caf50;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid #0e0101;
+}
+
+label {
+  font-weight: bold;
+}
